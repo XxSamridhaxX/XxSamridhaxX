@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @XxSamridhaxX
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Projects 
+- I’m interested in coding
+- I’m currently learning Python/Django
+- I’m looking to collaborate on Django Projects
+
 
 
 <!---
